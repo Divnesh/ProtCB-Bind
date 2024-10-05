@@ -1,0 +1,4 @@
+*-checkpoint.ipynb
+Data/ETC_Dataset/*
+Data/SGD_Dataset/*
+Data/SVM_Dataset/*
